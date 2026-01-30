@@ -1,4 +1,5 @@
 # ByteGame
+<img width="1901" height="1032" alt="image" src="https://github.com/user-attachments/assets/23bd99d4-aa5a-4926-9380-e528c47ba764" />
 
 A modern, responsive web application built with React, TypeScript, and Chakra UI. ByteGame showcases professional frontend development practices with state management, routing, and API integration.
 
